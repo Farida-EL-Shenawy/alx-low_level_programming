@@ -16,8 +16,8 @@ int main(void)
 
 	while (ch <= end)
 	{
-        putchar(ch);
-	ch++;
+		putchar(ch);
+		ch++;
 	}
 	putchar('\n');
 	return (0);

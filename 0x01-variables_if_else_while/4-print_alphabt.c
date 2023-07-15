@@ -15,7 +15,7 @@ char start = 'a';
 char end = 'z';
 char ch = start;
 
-while (ch <= end)
+	while (ch <= end)
 {
 		if (ch != 'q' && ch != 'e')
 		putchar(ch);

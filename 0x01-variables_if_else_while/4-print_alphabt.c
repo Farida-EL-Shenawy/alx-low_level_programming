@@ -16,11 +16,11 @@ char end = 'z';
 char ch = start;
 
 while (ch <= end)
-	{
+{
 		if (ch != 'q' && ch != 'e')
 		putchar(ch);
 	ch++;
-	}
+}
 	putchar('\n');
 	return (0);
 }

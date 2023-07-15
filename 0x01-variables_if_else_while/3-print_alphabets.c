@@ -18,14 +18,14 @@ int main(void)
 	char ch = start;
 
 	while (ch <= end)
-        {
-	putchar(ch);
-	ch++;
+	{
+		putchar(ch);
+		ch++;
 	}
 	while (chen <= third)
 	{
-	putchar(chen);
-	chen++;
+		putchar(chen);
+		chen++;
 	}
 	putchar('\n');
 	return (0);

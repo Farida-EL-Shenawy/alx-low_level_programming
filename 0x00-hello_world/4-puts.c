@@ -3,7 +3,8 @@
 /**
  * main -  A C program that prints with puts function
  *
- * return :Always  0 (Success)
+ * Returns :
+ * 0 on successful execution, non-zero on error.
  */
 
 int main(void)

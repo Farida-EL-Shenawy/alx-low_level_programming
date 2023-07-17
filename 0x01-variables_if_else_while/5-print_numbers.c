@@ -1,15 +1,14 @@
 #include<stdio.h>
 /**
-*main - A program that prints all single digit numbers 0
+*main - Aprogram that prints 10 numbers
 *
 *Return: Always 0 (Success)
 */
-
 int main(void)
 {
-for (int i = 0; i <= 9; i++)
+for (int i = 0 ; i <= 9 ; i++)
 {
-printf("%d", i);
+printf("%i", i);
 }
 printf("\n");
 return (0);

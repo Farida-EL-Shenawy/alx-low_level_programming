@@ -12,6 +12,6 @@ while (ch <= 9)
 putchar(ch + '0');
 ch++;
 }
-putchar("\n");
+putchar('\n');
 return (0);
 }

@@ -6,9 +6,11 @@
 */
 int main(void)
 {
-for (int i = 0 ; i <= 9 ; i++)
+int num = 0;
+while (num <= 9)
 {
-printf("%i", i);
+printf("%i", num);
+num++;
 }
 printf("\n");
 return (0);

@@ -11,19 +11,16 @@ void more_numbers(void)
 
 int i;
 int j;
-int x;
 
 for (i = 0; i <= 9; i++)
 {
 for (j = 0; j <= 14; j++)
 {
-x = j;
-if (c > 9)
+if (j > 9)
 {
-_putchar(1 + '0');
-x = j % 10;
+_putchar((j / 10) + '0');
 }
-_putchar(x + '0');
+_putchar((j % 10) + '0');
 }
 _putchar('\n');
 }

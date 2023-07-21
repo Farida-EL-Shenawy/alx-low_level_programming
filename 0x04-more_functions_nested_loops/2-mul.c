@@ -1,0 +1,19 @@
+#include "main.h"
+
+/**
+ * mul - a function that multiplies two integers.
+ *
+ * @a: first input.
+ *
+ * @b: second input.
+ *
+ * Return: result.
+ */
+
+int mul(int a, int b)
+{
+int result;
+result = a * b;
+_putchar(result + '0');
+_putchar('\n');
+}

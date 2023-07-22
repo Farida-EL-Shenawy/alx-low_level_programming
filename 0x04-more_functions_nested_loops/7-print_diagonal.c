@@ -1,7 +1,7 @@
 #include"main.h"
 
 /**
- * print_line - a function that draws a straight line
+ * print_diagonal - a function that draws a diagonal line
  *
  * @n: input
  *
@@ -20,7 +20,7 @@ else
 {
 for (i = 1; i <= n; i++)
 {
-for (s = 1; s <= i; s++) 
+for (s = 1; s <= i; s++)
 _putchar(' ');
 _putchar(92);
 _putchar('\n');

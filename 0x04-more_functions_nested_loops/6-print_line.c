@@ -5,7 +5,7 @@
  *
  * @n: input
  *
- * Return: Always 0
+ * Return: void
  */
 
 void print_line(int n)
@@ -14,11 +14,11 @@ void print_line(int n)
 int i;
 
 if (n <= 0)
-_puhchar('\n');
+_putchar('\n');
 else
 {
 for (i = 1; i <= n; i++)
 _putchar('_');
-_puhchar('\n');
+_putchar('\n');
 }
 }

@@ -3,7 +3,7 @@
 /**
  * reset_to_98 - function updates the value it points to to 98.
  *
- * n: the pointer that points to address
+ * n: input
  *
  * Return: void
  */

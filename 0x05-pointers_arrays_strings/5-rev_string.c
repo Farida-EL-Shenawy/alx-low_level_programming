@@ -15,7 +15,7 @@ int l;
 int c;
 char temp;
 
-for (l = 0; s[l] == '\0'; ++l)
+for (l = 0; s[l] != '\0'; ++l)
 ;
 for (c = 0; c < l / 2; c++)
 {

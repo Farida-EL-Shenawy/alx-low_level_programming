@@ -12,6 +12,7 @@ char *string_toupper(char *str);
 char *cap_string(char *s);
 int isDelimeter(char c);
 int isLower(char c);
+char *leet(char *c);
 char *rot13(char *);
 void print_number(int n);
 char *infinite_add(char *n1, char *n2, char *r, int size_r);

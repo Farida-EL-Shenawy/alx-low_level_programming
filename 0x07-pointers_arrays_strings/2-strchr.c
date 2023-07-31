@@ -20,5 +20,5 @@ if (s[i] == c)
 {
 return (s);
 }
-return NULL;
+return (NULL);
 }

@@ -21,7 +21,6 @@ return (check_prime(n, 2));
  *
  * @n: int
  * @othrn: int
- * @sq: square
  * Return: int
  */
 

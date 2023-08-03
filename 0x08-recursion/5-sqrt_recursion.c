@@ -4,7 +4,7 @@
  * _sqrt_recursion - returns the square root of a given number.
  *
  * @n: input
- * @sq: square root
+ * @val: square root
  *
  * Return: integer
  */
@@ -19,7 +19,7 @@ return (square(n, 1));
  * square - returns the square root of a given number.
  *
  * @n: int to find square root
- * @sq: square root
+ * @val: square root
  *
  * Return: integer
  */

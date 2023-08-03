@@ -6,7 +6,6 @@
  *
  * @n: int
  * @othrn: int
- * @sq: square root
  *
  * Return: 0 or 1
  */
@@ -22,8 +21,7 @@ return (check_prime(n, 2));
  *
  * @n: int
  * @othrn: int
- * @sq: square root
- *
+ * @sq: square
  * Return: int
  */
 

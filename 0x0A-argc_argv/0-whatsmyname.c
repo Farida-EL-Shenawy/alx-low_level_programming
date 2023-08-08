@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * main - prints program name foollowed by new line.
+ * argc: int
+ * argv: list
+ * 
+ * Return: 0
+ */
+
 int main(int argc, char const **argv)
 {
 (void) argc;

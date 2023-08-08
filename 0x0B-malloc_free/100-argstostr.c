@@ -19,7 +19,7 @@ return (size);
  * argstostr -  concatenates all the arguments of your program.
  *
  * @ac: int
- * @**av: arguments
+ * @av: arguments
  * Return: string
  */
 

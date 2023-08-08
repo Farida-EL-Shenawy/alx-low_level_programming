@@ -2,9 +2,9 @@
 
 /**
  * main - prints program name foollowed by new line.
- * argc: int
- * argv: list
- * 
+ * @argc: counter for number of parameters
+ * @argv: pointers for strings
+ *
  * Return: 0
  */
 

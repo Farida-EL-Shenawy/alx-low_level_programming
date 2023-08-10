@@ -8,7 +8,7 @@
  * @s2: pointer to second string
  * @n: Number of bytes from n2 to concatenate.
  *
- * Returns: pointer to space in memory contains concatenated string.
+ * Return: pointer to space in memory contains concatenated string.
  */
 
 char *string_nconcat(char *s1, char *s2, unsigned int n)

@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * *string_nconcat - concatenates two strings..
+ * *string_nconcat - concatenates two strings.
  *
  * @s1: pointer to first string
  * @s2: pointer to second string
@@ -32,7 +32,7 @@ for (s1_length = 0; s1[s1_length] != '\0'; s1_length++)
 for (s2_length = 0; s2[s2_length] != '\0'; s2_length++)
 ;
 
-/*Memory reservetion for case 1 & 2*/
+/*Memory reservetion for case 1 & 2.*/
 str = malloc(s1_length + n + 1);
 if (str == NULL)
 {
